@@ -1,0 +1,39 @@
+USER STORIES:
+
+1)	As a user, I want to have a personal account, which must contain personal data*, so that I can unlock features*.  
+
+2)	As a seller, I want to sell my rare* musical articles*, through direct sale or auction, so that I can make money.
+
+3)	As a buyer, I want to have filters for price and product conditions*, so that I can speed up my search.
+
+
+Dictionary:
+
+1.	Personal data: email address, password, first name, last name, address, postal code, city, telephone number.
+
+2.	Unlock features: 
+		-	As a seller: upload articles, organize auctions, contact the buyer and providing billing information.
+
+		-	As a buyer: save favorite articles, partecipate in auctions, contact the seller, providing shipping   
+                   information, buy articles.
+
+3.	Rare: first or limited editions, out of production.
+
+4.	Musical articles: vinyl records, CDs, audio cassettes.
+
+5.	Product conditions:
+		-	Mint (M): An article of this type is never been played, and it might’ve never been removed 
+            		  from its package. It’s fully sealed, and it has no blemishes or audio distortions.
+
+		-	Near Mint (NM): An article of this type is only been played few times. It has little or no markings, 
+                            and its package is either untouched or nearly untouched.
+
+		-	Excellent (E): An article of this type shows slight sings of wear. Light scuffs or scatches may be present, 
+                       	   but they don't affect playback.
+
+		-	Good (G): An article of this type it has been played but there's little loss in sound quality. 
+                	  It has occasional light scratches and shows normal wear but no major defects.
+
+		-	Fair (F): An article of this type is playable, but it will have a lot of surface noise and may skip. 
+                      Expect torn, stain or marked covers, label, sleeves or inserts.
+

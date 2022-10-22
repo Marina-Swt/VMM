@@ -1,0 +1,29 @@
+FUNCTIONAL REQUIREMENTS:
+
+1)	The system shall provide a login based on an e-mail and password.
+
+2)	The system shall display musical articles* providing the title, artist, cover image, record label, format, country,
+	release year, genre, style, product conditions* and price.
+
+3)	The system shall filter musical articles based on price and product conditions.
+
+
+Dictionary:
+
+1.	Musical articles: vinyl records, CDs, audio cassettes.
+
+2.	Product conditions:
+		-	Mint (M): An article of this type is never been played, and it might’ve never been removed 
+            		  from its package. It’s fully sealed, and it has no blemishes or audio distortions.
+
+		-	Near Mint (NM): An article of this type is only been played few times. It has little or no markings, 
+                            and its package is either untouched or nearly untouched.
+
+		-	Excellent (E): An article of this type shows slight sings of wear. Light scuffs or scatches may be present, 
+                       	   but they don't affect playback.
+
+		-	Good (G): An article of this type it has been played but there's little loss in sound quality. 
+                	  It has occasional light scratches and shows normal wear but no major defects.
+
+		-	Fair (F): An article of this type is playable, but it will have a lot of surface noise and may skip. 
+                      Expect torn, stain or marked covers, label, sleeves or inserts.
